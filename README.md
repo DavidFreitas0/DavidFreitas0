@@ -31,3 +31,4 @@ Atualmente estou me dedicando integralmente aos estudos focados a Desenvolviment
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](davidfreitasqa@gmail.com)
 
 
+![Snake Animation](https://github.com/DavidFreitas0/DavidFreitas0/blob/output/github-contribution-grid-snake.svg)
