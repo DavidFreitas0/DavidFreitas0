@@ -24,11 +24,11 @@ Atualmente estou me dedicando integralmente aos estudos focados a Desenvolviment
 ##
 
 #### Midias Sociais
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davidfreitasqa@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-freitas-6275a9257/)
-[![Instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidfreitas0)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](davidfreitasqa@gmail.com)
-
+<div style="display: inline-block">
+  <a href="davidfreitasqa@gmail.com" target="_blank"><img aling="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/david-freitas-6275a9257/" target="_blank"><img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/davidfreitas0" target="_blank"><img aling="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+  <a href="https://www.hackerrank.com/davidfreitas0" target="_blank"><img aling="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" /></a>
+</div>
 
 ![Snake Animation](https://github.com/DavidFreitas0/DavidFreitas0/blob/output/github-contribution-grid-snake.svg)
