@@ -30,5 +30,3 @@ Atualmente estou me dedicando integralmente aos estudos focados a Desenvolviment
   <a href="https://www.instagram.com/davidfreitas0" target="_blank"><img aling="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="https://www.hackerrank.com/davidfreitas0" target="_blank"><img aling="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" /></a>
 </div>
-
-![Snake Animation](https://github.com/DavidFreitas0/DavidFreitas0/blob/output/github-contribution-grid-snake.svg)
