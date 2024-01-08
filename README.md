@@ -1,5 +1,5 @@
 ## Olá! Eu sou o David Freitas! 👨🏻‍💻
-#### *Tenho 22 anos e sou apaixonado por tecnologia.*
+#### *Tenho 23 anos e sou apaixonado por tecnologia.*
 Atualmente estou me dedicando integralmente aos estudos focados a Desenvolvimento Web Full Stack, Qualidade e Testes de Softwares, uma área que inicialmente me chamou muita atenção, e a cada aprendizado novo me sinto mais interessado em ir mais longe. Sempre em busca de uma constante evolução, capacitação, aprendizado, novos desafios e experiências. Focado na excelência, tenho facilidade em absorver conteúdos técnicos, noção de metodologias ágeis, BDD, lógica de programação, HTML, CSS, JavaScript, Node.js, Express.js, Cypress e Robot Framework.
 
 <div>
