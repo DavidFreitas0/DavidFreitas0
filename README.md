@@ -1,7 +1,12 @@
-## Olá! Eu sou o David Freitas! 👨🏻‍💻
-#### *Tenho 24 anos e sou apaixonado por tecnologia.*
-Atualmente estou me dedicando integralmente aos estudos focados a Desenvolvimento Web Full Stack, uma área que inicialmente me chamou muita atenção, e a cada aprendizado novo me sinto mais interessado em ir mais longe. Sempre em busca de uma constante evolução, capacitação, aprendizado, novos desafios e experiências. Focado na excelência, tenho facilidade em absorver conteúdos técnicos, noção de metodologias ágeis, TypeScript, JavaScript, NodeJs, NestJs e SQL.
+## David de Freitas | Full Stack Developer 👨🏻‍💻
+Apaixonado por tecnologia e desenvolvimento de software, trabalho como Full Stack Developer, criando aplicações escaláveis com TypeScript, React, Node.js e NestJS.  
+  
+💡 Gosto de resolver problemas complexos, construir interfaces intuitivas e estruturar backends robustos seguindo Clean Architecture e boas práticas de código.  
+⚡ Sempre buscando aprender e evoluir, me interesso por arquitetura de software, performance e desenvolvimento escalável.  
+🤝 Acredito na colaboração, no aprendizado contínuo e no compartilhamento de conhecimento para construir produtos melhores.  
 
+ 📩 Aberto a novas oportunidades e colaborações. Vamos conversar!  
+   
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidFreitas0&show_icons=true&theme=merko&count_private=true" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFreitas0&theme=merko" />
@@ -18,6 +23,7 @@ Atualmente estou me dedicando integralmente aos estudos focados a Desenvolviment
   <img aling="center" alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img aling="center" alt="postgress" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img aling="center" alt="postgress" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div>
 
 ##
