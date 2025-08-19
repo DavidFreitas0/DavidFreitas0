@@ -6,11 +6,6 @@ Apaixonado por tecnologia e desenvolvimento de software, trabalho como Full Stac
 🤝 Acredito na colaboração, no aprendizado contínuo e no compartilhamento de conhecimento para construir produtos melhores.  
 
  📩 Aberto a novas oportunidades e colaborações. Vamos conversar!  
-   
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidFreitas0&show_icons=true&theme=merko&count_private=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFreitas0&theme=merko" />
-</div>
 
 ##
 
